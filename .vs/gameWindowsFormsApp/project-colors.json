@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d7f5ea5-d80c-4ae0-b52b-2baec1b30dcb": {
+      "ProjectGuid": "8d7f5ea5-d80c-4ae0-b52b-2baec1b30dcb",
+      "DisplayName": "gameWindowsFormsApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
